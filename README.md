@@ -1,5 +1,5 @@
 # BIBM2011Corpus
-Corpus used in BIBM 2011 paper "Automatic summarization of results from clinical trials" by Summerscales et al. 
+This is the 1.0 distribution of the corpus used in BIBM 2011 paper "Automatic summarization of results from clinical trials" by Summerscales et al. 
 
 This paper is available at:
 https://www.andrews.edu/~summersc/summerscales_bibm2011.pdf
